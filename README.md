@@ -1,10 +1,10 @@
 # IMC
 Aplicación que calcula índice de masa corporal (**IMC**) y entrega recomendaciones de acuerdo al resultado.  
 
-1. [Introducción](https://github.com/isabelyb/IMC/wiki/Introduccion)  
-1.1. [Propósito](https://github.com/isabelyb/IMC/wiki/Introduccion)  
-1.2. [Alcance](https://github.com/isabelyb/IMC/wiki/Introduccion)  
-1.3. [Personal involucrado](https://github.com/isabelyb/IMC/wiki/Introduccion)
+1. [Introducción](https://github.com/isabelyb/IMC/wiki/1.-Introducci%C3%B3n)  
+1.1. [Propósito](https://github.com/isabelyb/IMC/wiki/1.-Introducci%C3%B3n)  
+1.2. [Alcance](https://github.com/isabelyb/IMC/wiki/1.-Introducci%C3%B3n)  
+1.3. [Personal involucrado](https://github.com/isabelyb/IMC/wiki/1.-Introducci%C3%B3n)
 
 2. Descripción general
   
