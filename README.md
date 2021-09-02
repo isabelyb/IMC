@@ -13,9 +13,10 @@ Aplicación que calcula índice de masa corporal (**IMC**) y entrega recomendaci
 2.4. [Suposiciones y dependencias](https://github.com/isabelyb/IMC/wiki/2.-Descripci%C3%B3n-general)  
 2.5. [Evolución previsible del sistema](https://github.com/isabelyb/IMC/wiki/2.-Descripci%C3%B3n-general)    
 
-3. Requisitos específicos  
-3.1. Requisitos de las interfaces externas  
-3.1.1. Interfaces de usuario  
-3.1.2. Interfaces de software  
-3.1.3. Interfaces de comunicación
+3. [Requisitos específicos](https://github.com/isabelyb/IMC/wiki/3.-Requisitos-espec%C3%ADficos)  
+3.1. [Requisitos de las interfaces externas](https://github.com/isabelyb/IMC/wiki/3.-Requisitos-espec%C3%ADficos)   
+3.1.1. [Interfaces de usuario](https://github.com/isabelyb/IMC/wiki/3.-Requisitos-espec%C3%ADficos)
+3.1.2. [Interfaces de hardware](https://github.com/isabelyb/IMC/wiki/3.-Requisitos-espec%C3%ADficos)
+3.1.3. [Interfaces de software](https://github.com/isabelyb/IMC/wiki/3.-Requisitos-espec%C3%ADficos)   
+3.1.4. [Interfaces de comunicación](https://github.com/isabelyb/IMC/wiki/3.-Requisitos-espec%C3%ADficos) 
 
