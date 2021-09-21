@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <body bgcolor="lightblue"> </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMC</title>
+</head>
+
+<body>
+    <style>
+    
+        body {
+            max-width: 1400px;
+            min-width: 375px;
+            margin-right: auto;
+            margin-left: auto;
+            margin-top: 1;
+            margin-bottom: 0;
+            color: #1a116e;
+        }
+
+        .header-section {
+            margin-bottom: 100px;
+        }
+
+        .header-container{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            text-align: center;
+
+        }
+
+        .site-title {
+            width: 70%;
+            text-align: center;
+            justify-content: center;
+        }
+
+        .site-nav {
+            width: 40%;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+
+        .site-nav>a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .site-nav>a:hover {
+            text-decoration: underline;
+            font-weight: bold;
+        }
+
+        .botonConsulta {
+            color:bisque;
+            background-color:rgb(4, 4, 116);
+        }
+
+        .areaBoton {
+            text-align: center;
+        }
+
+        .consultar {
+            text-align: center;
+        }
+
+        .accederSistema{
+            text-align: right;
+        }
+        .botonAcceso{
+            color:bisque;
+            background-color:aquamarine;
+            margin-right: 10%;
+        }
+        
+
+        
+        
+    </style>
+
+<!-- inicio encabezado de acceso a la aplicación IMC y formulario de consulta de historial IMC -->
+
+<header>
+
+    
+    <div class="accederSistema">
+        <button class="botonAcceso" type="button">
+            <a href="Inicio_administrador.html">Acceder al sistema IMC</a>
+        </button>
+        
+    </div>
+    
+
+    <div class="header-section">
+        <div class="header-container">
+
+            <div class="site-title">
+                <h1>IMC es una aplicacion usada por nutricionistas y medicos especializados 
+                    en trastornos alimenticios, para llevar un control del Indice de Masa corporal</h1>
+            </div>
+
+            <div class="site-title">
+                <h2>Bienvenid@ a IMC Bienestar y vida saludable</h2>
+            </div>
+            <div class="site-title">
+                <h2>¡Consulta tu historial IMC aquí!</h2>
+            </div>
+           
+           
+</header>
+            <section id="consulta" class="site-title">
+                <select class="site-title" aria-label="Default select example">
+                    <option selected>Tipo de documento de identidad</option>
+                    <option value="1">Tarjeta de identidad</option>
+                    <option value="2">Cedula de ciudadania</option>
+                    <option value="3">Cedula de extranjeria</option>
+
+                  </select>
+                <div class="site-title">
+                    <label for="exampleFormControlInput1" class="form-label">Numero documento de identidad</label>
+                    <input type="numero" class="form-control" id="exampleFormControlInput1" placeholder="sin puntos ni comas">
+                    </div>
+            </section>
+
+        </br>
+    </br>
+            <div class=areaBoton>
+                <button class="botonConsulta" type="button">Consultar Informacion</button>
+            </div>
+                
+             
+<!-- inicio encabezado de acceso a la aplicación IMC y formulario de consulta de historial IMC -->
+
